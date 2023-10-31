@@ -1,0 +1,41 @@
+div#cabecario{
+    background-color: brown;
+    color: aliceblue;
+    text-align: center;
+}
+body{
+    background-color: rgb(184, 148, 148);
+}
+.container{
+    display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.box{
+    width: 300px;
+    height: 100px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+   padding: 35px;px;
+color: aliceblue;
+background-color: 
+rgb(26, 28, 48);
+}
+button{
+    text-align: center;
+    color: rgb(247, 242, 242);
+    background-color:rgb(46, 34, 34);
+  
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(22, 16, 16);
+font: size 200px;
+text-align: center;
+}
+div#foto{
+text-align: center;
+
+}
